@@ -67,6 +67,8 @@ const JoinUsPage = () => {
             return;
         }
 
+        setLoading(true);
+
         const fd = new FormData();
         fd.append("name", formData.name);
         fd.append("email", formData.email);
@@ -74,7 +76,6 @@ const JoinUsPage = () => {
         fd.append("birth_date", formData.birth_date);
         fd.append("gender", formData.gender);
 
-        // لازم تسمي الملفات بنفس أسماء الحقول يلي الـ PHP عم يتوقعها
         if (formData.avatar) fd.append("avatar", formData.avatar);
         if (formData.cv) fd.append("cv", formData.cv);
 
@@ -83,15 +84,21 @@ const JoinUsPage = () => {
                 method: "POST",
                 body: fd,
             });
+
             const data = await res.json();
-            if (data.success) toast.success("✅ تم الإرسال بنجاح");
-            else toast.error("❌ فشل الإرسال");
+            if (data.success) {
+                toast.success("تم الإرسال بنجاح");
+                setFormData({ name: "", email: "", avatar: null, cv: null, birth_date: "", gender: "" });
+            } else {
+                toast.error("فشل الإرسال");
+            }
         } catch (err) {
             console.error(err);
             toast.error("خطأ في الاتصال بالخادم");
+        } finally {
+            setLoading(false);
         }
     };
-
 
 
     const handleCancel = () => {
@@ -243,9 +250,15 @@ const JoinUsPage = () => {
                     </Button>
                     <Button
                         type="submit"
-                        className='flex-1 h-12 rounded-full bg-mySecondary hover:bg-myHover transition text-white font-bold text-lg shadow-md'>
-                        {t("submit")}
+                        disabled={loading}
+                        className={`flex-1 h-12 rounded-full font-bold text-lg shadow-md transition text-white ${loading
+                                ? 'bg-gray-400 cursor-not-allowed'
+                                : 'bg-mySecondary hover:bg-myHover'
+                            }`}
+                    >
+                        {loading ? "جاري الإرسال..." : t("submit")}
                     </Button>
+
                 </div>
             </form>
         </div>
