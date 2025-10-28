@@ -1,0 +1,36 @@
+{
+  "joinUs": {
+    "pageTitle": "Enter Your Information to Join",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "name": "Full Name",
+    "namePlaceholder": "Enter",
+    "avatar": "Attach Your Photo",
+    "avatarPlaceholder": "Attach your personal photo (Jpg, Png)",
+    "birthDate": "Birth Date",
+    "birthDatePlaceholder": "Select",
+    "cv": "Curriculum Vitae",
+    "cvPlaceholder": "Attach your CV (Pdf, Docx, Jpg, Png)",
+    "gender": "Gender",
+    "genderPlaceholder": "Select",
+    "male": "Male",
+    "female": "Female",
+    "cancel": "Cancel",
+    "submit": "Join",
+    "errors": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email format",
+      "nameRequired": "Name is required",
+      "nameShort": "Name must be at least 3 characters",
+      "avatarRequired": "Please upload a photo",
+      "cvRequired": "Please upload your CV",
+      "birthDateRequired": "Please select a birth date",
+      "genderRequired": "Please select your gender"
+    },
+    "toast": {
+      "success": "Data submitted successfully",
+      "error": "Please check required fields",
+      "cancel": "Operation cancelled"
+    }
+  }
+}

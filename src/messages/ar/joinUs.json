@@ -1,0 +1,36 @@
+{
+  "joinUs": {
+    "pageTitle": "ادخل معلوماتك للانضمام",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الالكتروني",
+    "name": "الاسم الكامل",
+    "namePlaceholder": "أدخل",
+    "avatar": "أرفق صورتك",
+    "avatarPlaceholder": "أرفق صورتك الشخصية (Jpg, Png)",
+    "birthDate": "تاريخ الميلاد",
+    "birthDatePlaceholder": "أختر",
+    "cv": "السيرة الذاتية",
+    "cvPlaceholder": "أرفق سيرتك الذاتية (Pdf, Docx, Jpg, Png)",
+    "gender": "الجنس",
+    "genderPlaceholder": "أختر",
+    "male": "ذكر",
+    "female": "أنثى",
+    "cancel": "الغاء",
+    "submit": "انضمام",
+    "errors": {
+      "emailRequired": "البريد الإلكتروني مطلوب",
+      "emailInvalid": "صيغة البريد الإلكتروني غير صحيحة",
+      "nameRequired": "الاسم مطلوب",
+      "nameShort": "الاسم يجب أن يكون 3 أحرف على الأقل",
+      "avatarRequired": "يرجى رفع صورة شخصية",
+      "cvRequired": "يرجى رفع السيرة الذاتية",
+      "birthDateRequired": "يرجى اختيار تاريخ الميلاد",
+      "genderRequired": "يرجى اختيار الجنس"
+    },
+    "toast": {
+      "success": "تم إرسال البيانات بنجاح",
+      "error": "الرجاء التحقق من الحقول المطلوبة",
+      "cancel": "تم إلغاء العملية"
+    }
+  }
+}

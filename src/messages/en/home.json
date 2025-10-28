@@ -1,0 +1,66 @@
+{
+  "home": {
+    "services": "Our Services",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "blog": "Legal Blog",
+    "joinUs": "Join Us",
+    "heroDesc": "Our lawyers have a deep understanding of legal complexities and can provide comprehensive legal solutions tailored to your needs.",
+    "view": "View Full Location",
+    "more": "More",
+    "logo-text": "Ertikaz for Law and Legal Consultations",
+
+    "slide-1-title": "Solid Foundation... Reliable Results",
+    "slide-1-desc": "Ertikaz Company is a fresh and distinguished vision for law practice in Syria...",
+
+    "slide-2-title": "Comprehensive Legal Services",
+    "slide-2-desc": "We provide high-quality legal consultations and services with full commitment to transparency.",
+
+    "slide-3-title": "Client Trust is the Key to Our Success",
+    "slide-3-desc": "We focus on building strong professional relationships with our clients to achieve the best outcomes.",
+
+    "service-1-title": "Litigation Services",
+    "service-1-desc": "Litigation before the courts is perhaps the most common method for dispute resolution...",
+
+    "service-2-title": "Corporate Services",
+    "service-2-desc": "Our work in corporate law and capital markets focuses on covering all client needs, starting from...",
+
+    "service-3-title": "Services for Foreign Investors",
+    "service-3-desc": "Ertikaz Law & Legal Consultancy provides comprehensive services for foreign investors interested in investing in Syria...",
+
+    "service-4-title": "Drafting Contracts and Commercial Agreements",
+    "service-4-desc": "Our firm has extensive experience in drafting and managing contracts, ensuring practical and effective agreements...",
+
+    "service-5-title": "Legal Consultations and Support",
+    "service-5-desc": "Successful legal consultations are your first step toward achieving effective justice and avoiding legal loopholes...",
+
+    "service-6-title": "Real Estate Cases",
+    "service-6-desc": "Our company provides comprehensive legal services for all real estate disputes, focusing on protecting parties' rights and ensuring proper procedures...",
+
+    "office-damascus-name": "Damascus Office",
+    "office-damascus-address": "Damascus - Anas Adnan Al-Maliki - Behind Damascus National Library, Building 2",
+
+    "office-rdm-name": "Rural Damascus Office",
+    "office-rdm-address": "Rural Damascus - Qudsaya Suburb - 42, opposite Ali Ibn Abi Talib Mosque",
+
+    "footer": {
+      "quickLinks": {
+        "title": "Quick Links",
+        "ourServices": "Our Services",
+        "aboutUs": "About Us",
+        "blog": "Legal Blog",
+        "contactUs": "Contact Us"
+      },
+      "services": {
+        "title": "Our Services",
+        "litigation": "Litigation Services",
+        "commercialCases": "Real Estate Cases",
+        "consulting": "Legal Consultations and Support",
+        "companyServices": "Corporate Services",
+        "foreignTrainees": "Services for Foreign Investors",
+        "contracts": "Drafting Contracts and Commercial Agreements"
+      },
+      "copyRight": "Ertikaz Law & Legal Consultancy © {year}"
+    }
+  }
+}

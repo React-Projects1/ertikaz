@@ -1,0 +1,41 @@
+{
+  "service": {
+    "service-1-title": "Litigation Services",
+    "service-1-desc": "Litigation before the courts is perhaps the most common method for resolving disputes between parties in Syria. Our firm includes a team of lawyers and legal advisors with extensive experience across all legal fields.",
+    "service-1-item-1": "Representing clients, filing lawsuits, and managing all legal procedures before courts of all levels and jurisdictions (civil, commercial, real estate, criminal, and Sharia).",
+    "service-1-item-2": "Preparing all necessary documents and evidence for each case.",
+    "service-1-item-3": "Taking precautionary measures and actions to ensure the protection of rights and benefits.",
+    "service-1-item-4": "Executing court judgments within the competent government departments.",
+
+    "service-2-title": "Corporate Services",
+    "service-2-desc": "Our work in corporate law and capital markets at Ertikaz Law & Legal Consultancy is based on understanding and covering all client needs, starting from:",
+    "service-2-item-1": "Pre-establishment services and preparing studies related to the business field, drafting and reviewing commercial company contracts.",
+    "service-2-item-2": "Company incorporation procedures and registration with the relevant chambers of commerce and industry, as well as all government authorities connected to the company's activities.",
+    "service-2-item-3": "Establishment and protection of intellectual property rights, industrial designs, and patents.",
+    "service-2-item-4": "Corporate governance.",
+    "service-2-item-5": "Legal representation in ordinary and extraordinary general assemblies and providing legal opinions regarding the necessary procedures for convening them.",
+    "service-2-item-6": "Registration of agencies, trademarks, trade names, and foreign company branches within Syria.",
+    "service-2-item-7": "Support and representation services for business owners and enterprises during negotiations and deal completion.",
+    "service-2-item-8": "Completion of amicable liquidation processes and finalizing all liquidation transactions until their last stages.",
+    "service-2-desc2": "In addition to other related services, while ensuring speed and quality standards. These services align with the modern forms of local and foreign investment in Syria, where business opportunities have significantly increased across all commercial activities.",
+
+    "service-3-title": "Services for Foreign Investors",
+    "service-3-desc": "Ertikaz Law & Legal Consultancy provides comprehensive services for foreign investors wishing to invest in the Syrian Arab Republic. We assist investors in establishing their businesses in compliance with prevailing laws and support them throughout all stages of investment. With our deep knowledge of local legislation, we ensure smooth and efficient procedures, allowing investors to focus on growing their businesses through a set of services that complement commercial and investment activities in strategic partnerships with specialized companies in the following areas:",
+    "service-3-item-1": "Certified financial and accounting auditing.",
+    "service-3-item-2": "Preparation and planning of economic feasibility studies according to local and international standards.",
+    "service-3-item-3": "Real estate investment and development, and leading contracting companies.",
+    "service-3-item-4": "Technical and technological development and support.",
+    "service-3-item-5": "Certified legal translation offices.",
+    "service-3-item-6": "Training and development of human resources skills.",
+    "service-3-desc2": "Comprehensive support to ensure your investment project is executed quickly and efficiently within the appropriate legal framework.",
+
+    "service-4-title": "Drafting Contracts and Commercial Agreements",
+    "service-4-desc": "Our firm has extensive experience in drafting and managing contracts, focusing on reflecting the expectations of contracting parties and ensuring practical completion of transactions beyond paperwork. This is achieved through a structured methodology including analysis of correspondence and negotiations to understand agreements between parties, allowing us to focus on legal aspects complementing financial considerations. \nBased on this analysis, we prepare contracts or memorandums of understanding according to best practices suitable to the nature of the contractual relationship and the parties’ activities, while ensuring timely delivery of the initial draft. We also handle drafts submitted by counterparties and make necessary adjustments to align perspectives, balancing client interests and objectives. Our services include drafting contracts and agreements specialized in both Arabic and English.",
+
+    "service-5-title": "Legal Consultations and Support",
+    "service-5-desc": "Successful legal consultations are your first step toward achieving effective justice and avoiding legal loopholes that may expose you to financial and moral risks. This is the goal sought by all clients who wish to focus on their business and achieve success, which we strive to provide at Ertikaz Law & Legal Consultancy in every detail of our services. If you are looking for a legal consultancy office in the Syrian Arab Republic, you are in the right place to request services.",
+
+    "service-6-title": "Real Estate Cases",
+    "service-6-desc": "Our company provides comprehensive legal services addressing all real estate disputes, focusing on protecting parties' rights and ensuring proper procedures. Our services include resolving real estate disputes related to ownership, leases, mortgages, or sale and purchase contracts, as well as all other real estate conflicts. We also offer consultancy for real estate development and assist investors and developers in managing their projects in compliance with applicable regulations."
+  }
+}
